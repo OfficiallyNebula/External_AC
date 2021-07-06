@@ -9,3 +9,12 @@
 *.filters
 *.user
 External_AC/.vs/External_AC/v16/.suo
+*.exe
+*.recipe
+*.ilk
+*.log
+*.obj
+*.pdb
+*.tlog
+*.txt
+*.idb
